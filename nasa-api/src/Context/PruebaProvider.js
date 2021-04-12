@@ -10,8 +10,8 @@ const PruebaProvider = (props) => {
 //data 
     //data inicial de mi hook 
     const colors = {
-        background: "#000",
-        color: "#fff"
+        background: "#DAD9D9",
+        color: "#F5F4F4"
     }
 
     const [colorN, colorNSet] = React.useState(colors)
